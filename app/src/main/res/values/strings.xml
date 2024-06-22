@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyMoneyManager</string>
+    <string name="btn_income">収入</string>
+    <string name="btn_expense">支出</string>
+    <string name="btn_balance">残金</string>
+    <string name="btn_savings">預金設定</string>
+    <string name="btn_ledger">金銭通帳</string>
+    <string name="btn_prediction">AI予測</string>
+</resources>

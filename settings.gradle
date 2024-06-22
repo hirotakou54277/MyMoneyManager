@@ -1,0 +1,4 @@
+// MyMoneyManager/settings.gradle
+
+rootProject.name = "MyMoneyManager"
+include ':app'
